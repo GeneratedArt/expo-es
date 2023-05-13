@@ -1,13 +1,13 @@
 ---
 title: GeneratedArt
 layout: home
-description: The GeneratedArt exhibition service is dedicated to showcasing the best and most innovative works of generative art from around the world. Our team of experienced curators carefully selects and reviews each piece of artwork, ensuring that it meets our high standards for technical proficiency, artistic vision, and creativity.
+description: El servicio de exposiciones de GeneratedArt está dedicado a presentar las mejores y más innovadoras obras de arte generativo de todo el mundo. Nuestro equipo de curadores experimentados selecciona y revisa cuidadosamente cada obra de arte, asegurándose de que cumple con nuestros altos estándares de competencia técnica, visión artística y creatividad.
 intro_image: "images/illustrations/exhibition.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Discover generative art exhibitions
+# Descubre las exposiciones de arte generativo
 
-Experience the beauty of generative art at our exhibitions, where digital artworks are created through algorithmic or random generation. Visitors can purchase artwork using a QR code at promoted locations on the GeneratedArt platform.
+Experimenta la belleza del arte generativo en nuestras exposiciones, donde las obras de arte digitales se crean a través de la generación algorítmica o aleatoria. Los visitantes pueden comprar obras de arte utilizando un código QR en ubicaciones promovidas en la plataforma GeneratedArt.
