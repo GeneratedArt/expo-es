@@ -8,9 +8,6 @@ main:
   - name: "Servicios"
     url: "/servicios/"
     weight: 3
-  - name: "Catalogo"
-    url: "/catalogo/"
-    weight: 4
   - name: "Contacto"
     url: "/contacto/"
     weight: 5
