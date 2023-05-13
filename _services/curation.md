@@ -4,40 +4,37 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Dedicated to showcasing the best and most innovative works of generative art from around the world, our curation service for generative art exhibitions is committed to promoting and advancing the field of generative art.
+Dedicado a mostrar las mejores y más innovadoras obras de arte generativo de todo el mundo, nuestro servicio de curaduría para exposiciones de arte generativo está comprometido a promover y avanzar en el campo del arte generativo.
 
 ![Curation](/images/curation.png)
 
-Our team of experienced curators carefully selects and reviews each piece of artwork, ensuring that it meets our high standards for creativity, technical proficiency, and artistic vision.
+Nuestro equipo de curadores experimentados selecciona y revisa cuidadosamente cada obra de arte, asegurándose de que cumpla con nuestros altos estándares de creatividad, competencia técnica y visión artística.
 
-# Overview
+# Resumen
 
-As part of our curation process, we review the profiles of each artist whose work we consider for exhibition. This includes assessing their experience and background in generative art, as well as their overall artistic vision and aesthetic style. We believe that understanding the artist behind the artwork is essential to creating a rich and engaging exhibition experience for our audience.
+Como parte de nuestro proceso de curaduría, revisamos los perfiles de cada artista cuyo trabajo consideramos para la exposición. Esto incluye evaluar su experiencia y antecedentes en arte generativo, así como su visión artística general y estilo estético. Creemos que entender al artista detrás de la obra de arte es esencial para crear una experiencia de exposición rica y atractiva para nuestro público.
 
-In addition to artist profiles, we also carefully audit the creative source code used in each piece of artwork. This involves reviewing the code to ensure that it is well-structured, well-documented, and follows best practices for coding style and standards. We also test the code in a controlled environment to ensure that it is functioning as intended, and that it does not contain any errors or vulnerabilities that could compromise the security or integrity of the artwork.
+Además de los perfiles de los artistas, también auditamos cuidadosamente el código fuente creativo utilizado en cada obra de arte. Esto implica revisar el código para asegurarse de que esté bien estructurado, bien documentado y siga las mejores prácticas para el estilo y los estándares de codificación. También probamos el código en un entorno controlado para asegurar que funcione como se espera y que no contenga errores o vulnerabilidades que puedan comprometer la seguridad o integridad de la obra de arte.
 
-Our curation service is dedicated to promoting and advancing the field of generative art, and we are committed to showcasing the best and most innovative works from around the world. By carefully reviewing and auditing each piece of artwork, we ensure that our exhibitions are of the highest quality and offer a unique and engaging experience for our audience.
+Nuestro servicio de curaduría está dedicado a promover y avanzar en el campo del arte generativo, y estamos comprometidos a mostrar las mejores y más innovadoras obras de todo el mundo. Al revisar y auditar cuidadosamente cada obra de arte, nos aseguramos de que nuestras exposiciones sean de la más alta calidad y ofrezcan una experiencia única y atractiva para nuestro público.
 
-## Curation Process
+## Proceso de Curación
 
-Our curation process is based on three key principles to ensure a high-quality exhibition experience for our audience. These principles include:
+Nuestro proceso de curaduría se basa en tres principios clave para garantizar una experiencia de exposición de alta calidad para nuestro público. Estos principios incluyen:
 
-1. Technical proficiency: Generative art often involves complex technical processes, and curators must be able to evaluate the technical proficiency of the artwork being considered. This includes assessing the quality and complexity of the code used to generate the artwork, as well as the technical skill and experience of the artist.
+1. Competencia técnica: El arte generativo a menudo implica procesos técnicos complejos, y los curadores deben ser capaces de evaluar la competencia técnica de la obra de arte que se está considerando. Esto incluye evaluar la calidad y complejidad del código utilizado para generar la obra de arte, así como la habilidad técnica y experiencia del artista.
+2. Visión artística: El arte generativo es, ante todo, una práctica artística, y los curadores deben ser capaces de evaluar la visión artística y la calidad estética de la obra de arte que se está considerando. Esto incluye evaluar la originalidad, creatividad e innovación de la obra, así como su capacidad para comunicar ideas y emociones.
+3. Cohesión: Una exposición exitosa de arte generativo debe ser cohesiva y atractiva, y los curadores deben ser capaces de seleccionar obras que encajen temática y estéticamente. Esto incluye evaluar cómo las obras individuales se ajustarán como parte de la exposición en general, así como cómo la exposición en su conjunto enganchará e inspirará al público.
 
-2. Artistic vision: Generative art is first and foremost an artistic practice, and curators must be able to evaluate the artistic vision and aesthetic quality of the artwork being considered. This includes assessing the originality, creativity, and innovation of the work, as well as its ability to communicate ideas and emotions.
+## Para Organizadores de Exposiciones
 
-3. Cohesiveness: A successful generative art exhibition should be cohesive and engaging, and curators must be able to select works that fit together thematically and aesthetically. This includes assessing how individual works will fit together as part of the larger exhibition, as well as how the exhibition as a whole will engage and inspire the audience.
+¿Eres un organizador de exposiciones buscando obras de arte innovadoras y atractivas para mostrar? ¡Déjanos ayudarte con nuestro servicio decuraduría! Nos especializamos en seleccionar y curar las mejores y más innovadoras obras de arte generativo de todo el mundo. Nuestro equipo de curadores experimentados revisa y audita cuidadosamente cada obra de arte, asegurándose de que cumple con nuestros altos estándares de competencia técnica, visión artística y creatividad. También consideramos la cohesión de la exposición en general para garantizar una experiencia única y atractiva para su público. [Contáctenos](/apply) hoy para aprender cómo podemos ayudar a crear una exposición de arte generativo única para su lugar o evento.
 
-## For Exhibition Organizers
+## Para Artistas
 
-Are you an exhibition organizer looking for innovative and engaging artwork to showcase? Let our curation service help! We specialize in selecting and curating the best and most innovative works of generative art from around the world. Our team of experienced curators carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency, artistic vision, and creativity. We also consider the cohesiveness of the overall exhibition to ensure a unique and engaging experience for your audience. [Contact us](/apply) today to learn how we can help create a one-of-a-kind generative art exhibition for your venue or event.
+¿Eres un artista que trabaja en el campo del arte generativo? ¡Permítenos mostrar tu trabajo al mundo! Nuestro servicio de curaduría revisa y audita cuidadosamente cada obra de arte, asegurándose de que cumple con nuestros altos estándares de competencia técnica y visión artística. También consideramos los antecedentes y la experiencia del artista en arte generativo para crear una experiencia de exposición rica y atractiva para nuestro público. Únete a nuestra comunidad de artistas innovadores y permítenos ayudar a promover y avanzar en el campo del arte generativo. Contáctanos hoy para [enviar](/apply) tu trabajo para su consideración.
 
-## For Artists
-
-Are you an artist working in the field of generative art? Let us showcase your work to the world! Our curation service carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency and artistic vision. We also consider the artist's background and experience in generative art to create a rich and engaging exhibition experience for our audience. Join our community of innovative artists and let us help promote and advance the field of generative art. Contact us today to [submit](/apply) your work for consideration.
-
-
-# Articles
+# Artículos
 
 [Generative art and the blurred lines of authenticity](https://medium.com/generatedart/generative-art-and-the-blurred-lines-of-authenticity-80d5417d8c03)
 
